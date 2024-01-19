@@ -52,9 +52,9 @@ com.hermesperez.listaelementos.app-fragment-1.5.1-50 /home/linkhpp/.gradle/cache
 com.hermesperez.listaelementos.app-customview-poolingcontainer-1.0.0-51 /home/linkhpp/.gradle/caches/transforms-3/e955d2ad3b7fdd262da1f822c4578020/transformed/customview-poolingcontainer-1.0.0/res
 com.hermesperez.listaelementos.app-navigation-runtime-2.7.5-52 /home/linkhpp/.gradle/caches/transforms-3/f1e66237012c0fd54fb197c2b39aec42/transformed/navigation-runtime-2.7.5/res
 com.hermesperez.listaelementos.app-hilt-navigation-compose-1.1.0-53 /home/linkhpp/.gradle/caches/transforms-3/f579df514273f28a510e8a0f1c793a12/transformed/hilt-navigation-compose-1.1.0/res
-com.hermesperez.listaelementos.app-resValues-54 /home/linkhpp/Documentos/AndroidProjectFinal-main/app/build/generated/res/resValues/debug
-com.hermesperez.listaelementos.app-packageDebugResources-55 /home/linkhpp/Documentos/AndroidProjectFinal-main/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.hermesperez.listaelementos.app-packageDebugResources-56 /home/linkhpp/Documentos/AndroidProjectFinal-main/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.hermesperez.listaelementos.app-merged_res-57 /home/linkhpp/Documentos/AndroidProjectFinal-main/app/build/intermediates/merged_res/debug
-com.hermesperez.listaelementos.app-debug-58 /home/linkhpp/Documentos/AndroidProjectFinal-main/app/src/debug/res
-com.hermesperez.listaelementos.app-main-59 /home/linkhpp/Documentos/AndroidProjectFinal-main/app/src/main/res
+com.hermesperez.listaelementos.app-resValues-54 /home/linkhpp/Documentos/AndroidProjectFinal/app/build/generated/res/resValues/debug
+com.hermesperez.listaelementos.app-packageDebugResources-55 /home/linkhpp/Documentos/AndroidProjectFinal/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.hermesperez.listaelementos.app-packageDebugResources-56 /home/linkhpp/Documentos/AndroidProjectFinal/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.hermesperez.listaelementos.app-merged_res-57 /home/linkhpp/Documentos/AndroidProjectFinal/app/build/intermediates/merged_res/debug
+com.hermesperez.listaelementos.app-debug-58 /home/linkhpp/Documentos/AndroidProjectFinal/app/src/debug/res
+com.hermesperez.listaelementos.app-main-59 /home/linkhpp/Documentos/AndroidProjectFinal/app/src/main/res

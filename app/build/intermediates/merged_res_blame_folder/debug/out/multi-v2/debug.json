@@ -2876,7 +2876,7 @@
             "outputFile": "com.hermesperez.listaelementos.app-merged_res-58:/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/home/linkhpp/Documentos/AndroidProjectFinal-main/app/src/main/res/values/themes.xml",
+                    "source": "/home/linkhpp/Documentos/AndroidProjectFinal/app/src/main/res/values/themes.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -3035,23 +3035,6 @@
                     }
                 },
                 {
-                    "source": "/home/linkhpp/Documentos/AndroidProjectFinal-main/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "286,55,102,149,196,241,328",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "323,97,144,191,236,281,365"
-                    },
-                    "to": {
-                        "startLines": "5,10,11,12,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "370,675,722,769,816,861,906",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "407,717,764,811,856,901,943"
-                    }
-                },
-                {
                     "source": "/home/linkhpp/.gradle/caches/transforms-3/96201ef264915a02967200df2fe2d053/transformed/ui-release/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,60,63",
@@ -3088,20 +3071,20 @@
                     }
                 },
                 {
-                    "source": "/home/linkhpp/Documentos/AndroidProjectFinal-main/app/src/main/res/values/strings.xml",
+                    "source": "/home/linkhpp/Documentos/AndroidProjectFinal/app/src/main/res/values/colors.xml",
                     "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "51",
-                        "endOffsets": "63"
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "286,55,102,149,196,241,328",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "323,97,144,191,236,281,365"
                     },
                     "to": {
-                        "startLines": "110",
-                        "startColumns": "4",
-                        "startOffsets": "6574",
-                        "endColumns": "51",
-                        "endOffsets": "6621"
+                        "startLines": "5,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "370,675,722,769,816,861,906",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "407,717,764,811,856,901,943"
                     }
                 },
                 {
@@ -3138,6 +3121,23 @@
                         "endLines": "300,306,312,315,326",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "14739,14983,15230,15363,15775"
+                    }
+                },
+                {
+                    "source": "/home/linkhpp/Documentos/AndroidProjectFinal/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "51",
+                        "endOffsets": "63"
+                    },
+                    "to": {
+                        "startLines": "110",
+                        "startColumns": "4",
+                        "startOffsets": "6574",
+                        "endColumns": "51",
+                        "endOffsets": "6621"
                     }
                 }
             ]
