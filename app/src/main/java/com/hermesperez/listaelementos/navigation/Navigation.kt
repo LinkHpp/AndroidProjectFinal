@@ -14,7 +14,7 @@ import com.hermesperez.listaelementos.viewmodel.VideogameViewModel
 @Composable
 fun Navigation(videogameViewModel: VideogameViewModel, nameViewModel: NameViewModel){
     val navController = rememberNavController()
-    NavHost(navController = navController, startDestination = Routes.UserScreen.routes){
+    NavHost(navController = navController, startDestination = Routes.MainScreen.routes){
         composable(Routes.MainScreen.routes){
             MainScreen(navController, videogameViewModel)
         }
